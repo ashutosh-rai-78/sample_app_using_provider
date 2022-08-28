@@ -4,8 +4,14 @@
 
 ## Screensshots
 ---
-![](images/Screenshot_1.png)
+<p float="left">
+<img src="images/Screenshot_1.png" width="220">
+<img src="images/Screenshot_3.png" width="220">
+<img src="images/Screenshot_4.png" width="668">
+</p>
+
+<!-- ![](images/Screenshot_1.png)
 ![](images/Screenshot_3.png)
-![](images/Screenshot_4.png)
+![](images/Screenshot_4.png) -->
 
 
